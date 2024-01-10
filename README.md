@@ -1,4 +1,4 @@
-# Bitwise-Operations-
+# Bitwise-Operations
 ##IS - First Course 2023
 
 ### Task - Even or Odd
